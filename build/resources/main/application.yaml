@@ -1,7 +1,0 @@
-db:
-  url: jdbc:postgresql://localhost:5432/spring
-  pool-size: 20
-  username: postgres
-  password: rfrfirf12
-  driver:
-    classname: org.postgresql.Driver
